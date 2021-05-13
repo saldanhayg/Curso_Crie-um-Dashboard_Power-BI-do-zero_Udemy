@@ -21,12 +21,14 @@ Tópicos curso e:<br>
 </h1>
 <br>
 <br>
-Agradecimento ao instrutor <a href="https://www.linkedin.com/in/lucas-zago/" target="_blank">Lucas Zago</a>
 
+### Link deste curso  💻
 
-## Tecnologia utilizadas 🚀:
-
-* <a href="https://www.w3schools.com/html/">HTML</a> 
-* <a href="https://www.w3schools.com/css/">CSS</a>
-* <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript">JavaScript</a> 
+ 🎯 <a href="https://www.udemy.com/course/crie-um-dashboard-em-power-bi-do-zero-caso-pratico/" target="_blank">Crie um Dashboard em Power BI do ZERO (Caso Prático)</a>
+<br>
+<br>
+[Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
+<br>
+<br> 
+🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏  
 
